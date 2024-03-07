@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/about-Me/static/css/main.febebb24.css",
+    "main.js": "/about-Me/static/js/main.ffe7238c.js",
+    "static/media/pro.jpg": "/about-Me/static/media/pro.2f0bef33be108615fcf8.jpg",
+    "static/media/me2.jpeg": "/about-Me/static/media/me2.1db3a459e21dc8f5625b.jpeg",
+    "static/media/Bini CV.pdf": "/about-Me/static/media/Bini CV.049244e11d55319ef0b2.pdf",
+    "index.html": "/about-Me/index.html",
+    "main.febebb24.css.map": "/about-Me/static/css/main.febebb24.css.map",
+    "main.ffe7238c.js.map": "/about-Me/static/js/main.ffe7238c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.febebb24.css",
+    "static/js/main.ffe7238c.js"
+  ]
+}
