@@ -1,0 +1,137 @@
+#about{
+    background: white;
+    
+}
+
+h5{
+    color: black;
+}
+
+
+.btn-primary{
+   margin-bottom: 2rem;
+}
+
+.about_container{
+    display: grid;
+    grid-template-columns: 35% 50%;
+    gap: 15%;
+}
+
+.about__me{
+    width: 90%;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    background: linear-gradient(
+        45deg,
+        transparent,
+        var(--color-bg-variant),
+        transparent
+        );
+        display: grid;
+        place-items: center;
+}
+
+.about__me-image {
+    border-radius: 2rem;
+    overflow: hidden;
+    transform: rotate(10deg);
+    transition: var(--transition);
+
+}
+.about__me-image:hover{
+    transform: rotate(-5deg);
+}
+
+.about_cards{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+}
+
+.about_card{
+    background: var(--color-primary);
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+    transition: var(--transition);
+}
+
+.about_card:hover{
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: pointer;
+    transform: rotate(-7deg);
+    box-shadow:  0px 8px 15px #5b5b5c;
+}
+
+.about_icon {
+    color: black;
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+}
+
+.about_card h5 {
+    font-size: 1rem;
+}
+.about_card small {
+    font-size: 0.8rem;
+    color: black;
+}
+
+.about_content p {
+  margin: 2rem 0 2.6rem;
+  color: black;
+}
+
+
+
+
+
+/*-----------------------MEDIA QUERIES(MEDIUM DEVICES)--------------------------*/
+
+@media screen and (max-width: 1024px) {
+    
+    .about_container {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+    .about__me{
+        width: 40%;
+        margin: 1rem auto 4rem;
+    }
+    
+}  
+  
+
+
+/*-----------------------MEDIA QUERIES(small DEVICES)--------------------------*/
+
+@media screen and (max-width: 600px) {
+           .about__me{
+            width: 65%;
+           
+           }
+
+
+.about_card {
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+
+
+  
+}
+
+.about_content {
+    text-align: center;
+    margin: 1rem;
+    
+}
+
+.about_content p {
+    margin: 3rem;
+}
+
+
+}
