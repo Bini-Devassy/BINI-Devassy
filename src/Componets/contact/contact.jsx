@@ -26,7 +26,7 @@ const Contact = () => {
             <ImMail2 className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>binidevassy@outlook.com</h5>
-            <a href="mailto:binidevassy@outlook.com" target="_blank" >Send A Message</a>
+            <a href="mailto:alfonsabini@outlook.com" target="_blank" >Send A Message</a>
           </article>
           <article className='contact__option'>
             <BsMessenger className='contact__option-icon'/>
