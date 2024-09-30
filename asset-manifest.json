@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.06f384e8.css",
-    "main.js": "/My-Portfolio/static/js/main.dccbc728.js",
-    "static/media/pro.jpg": "/My-Portfolio/static/media/pro.2f0bef33be108615fcf8.jpg",
-    "static/media/me2.jpeg": "/My-Portfolio/static/media/me2.1db3a459e21dc8f5625b.jpeg",
-    "static/media/Bini CV.pdf": "/My-Portfolio/static/media/Bini CV.ae3cd0e9bb92b25aefc3.pdf",
-    "index.html": "/My-Portfolio/index.html",
-    "main.06f384e8.css.map": "/My-Portfolio/static/css/main.06f384e8.css.map",
-    "main.dccbc728.js.map": "/My-Portfolio/static/js/main.dccbc728.js.map"
+    "main.css": "/BINI-Devassy/static/css/main.7b918613.css",
+    "main.js": "/BINI-Devassy/static/js/main.83807c1c.js",
+    "static/media/pro.jpg": "/BINI-Devassy/static/media/pro.2f0bef33be108615fcf8.jpg",
+    "static/media/me2.jpeg": "/BINI-Devassy/static/media/me2.1db3a459e21dc8f5625b.jpeg",
+    "static/media/Bini CV.pdf": "/BINI-Devassy/static/media/Bini CV.955d559980ef84a4657a.pdf",
+    "index.html": "/BINI-Devassy/index.html",
+    "main.7b918613.css.map": "/BINI-Devassy/static/css/main.7b918613.css.map",
+    "main.83807c1c.js.map": "/BINI-Devassy/static/js/main.83807c1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.06f384e8.css",
-    "static/js/main.dccbc728.js"
+    "static/css/main.7b918613.css",
+    "static/js/main.83807c1c.js"
   ]
 }
